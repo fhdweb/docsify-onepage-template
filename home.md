@@ -1,4 +1,4 @@
-# My Open Publishing Space
+# NURS000 Publishing Space
 
 ## Create, Share and Collaborate
 
